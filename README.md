@@ -9,7 +9,7 @@ gii-sortable is a jQuery extension to easilly make `<table>` DOM
 objects clickable and resortable, without having to render the page
 again. Please read full documentation here:
 
-http://www.getskarinnovation.se/gii-sortable
+http://www.getskarinnovation.se/?pageid=jqueryplugins#gii-sortable
 
 Copyright 2014, Getskär IT Innovation AB, Sweden
 http://www.getskarinnovation.se
