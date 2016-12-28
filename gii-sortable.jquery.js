@@ -2,7 +2,7 @@
  * gii-sortable.js v1.0.0
  * http://www.getskarinnovation.se/gii-sortable
  * ==========================================================
- * Copyright 2014, Getsk‰r IT Innovation AB, Sweden
+ * Copyright 2014, Getsk√§r IT Innovation AB, Sweden
  * http://www.getskarinnovation.se
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,7 +18,7 @@
  * limitations under the License.
  *
  * Changelog:
- * 1.0.0    Getsk‰r, March 14th, 2014.
+ * 1.0.0    Getsk√§r, March 14th, 2014.
  *          * Initial commit.
  *
  *

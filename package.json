@@ -1,0 +1,8 @@
+{
+  "name": "gii-sortable",
+  "version": "1.0.1",
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
