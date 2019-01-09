@@ -130,6 +130,10 @@ Options can be passed via data attributes or JavaScript. For data attributes, pr
                 </tr>
                 </tbody>
             </table>
+            
+Example
+-------
+https://codepen.io/familjenpersson/pen/yGqKrR
 
 License
 -------
