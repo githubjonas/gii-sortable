@@ -133,7 +133,7 @@ Options can be passed via data attributes or JavaScript. For data attributes, pr
             
 Example
 -------
-https://codepen.io/familjenpersson/pen/yGqKrR
+https://codepen.io/familjenpersson/full/yGqKrR
 
 License
 -------
