@@ -1,3 +1,6 @@
+This repository is not really maintained, but kept here for history and fun.
+
+
 gii-sortable
 ============
 gii-sortable.js v1.0.0
